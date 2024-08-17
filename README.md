@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" >
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohitnaikawadi26&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
